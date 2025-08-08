@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ai-ag-proj/
 
 # Spyder project settings
 .spyderproject
